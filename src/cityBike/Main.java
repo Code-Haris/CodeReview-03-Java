@@ -56,9 +56,9 @@ public class Main {
         station2.addBike(7);
 
         //creates user
-        User usr1 = new User("Otto", "Bismark");
-        User usr2 = new User("Karin", "Bing");
-        User usr3 = new User("Kurt", "Holz");
+        User usr1 = new User("Jessica", "Alba");
+        User usr2 = new User("Angelina", "Jolie");
+        User usr3 = new User("John", "Doe");
 
         //puts user in a HashMap
         users.put(usr1.getUserId(), usr1);
